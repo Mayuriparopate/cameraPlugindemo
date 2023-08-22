@@ -1,0 +1,7 @@
+{
+  "name": "cameraPlugindemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
